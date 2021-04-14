@@ -7,3 +7,8 @@ plant breeding location data include flipped latitude and longitude values, miss
 cases, missing data. This tool, an **I**ntegrated **T**ool for **A**utomatic **L**at **L**ong **I**mputation 
 and **C**leaning (ITALLIC), automatically detects and corrects errors in location data and imputes missing values 
 for location-dependent data, such as region name.    
+
+### Installation
+ITALLICs is written in pure Python, but has several dependecies such as GeoPandas that can be challenging to install. 
+Therefore, we recommend installing ITALLIC using the ``Easy Way''. For those with experience using pip, we also 
+provide instruction for installing using pip. 
