@@ -10,5 +10,11 @@ for location-dependent data, such as region name.
 
 ### Installation
 ITALLICs is written in pure Python, but has several dependecies such as GeoPandas that can be challenging to install. 
-Therefore, we recommend installing ITALLIC using the "**Easy Way**". For those with experience using pip, we also 
+Therefore, we recommend installing ITALLIC using the "**Easy Install**". For those with experience using pip, we also 
 provide instruction for installing using pip. 
+
+#### Easy Install
+To
+
+#### Pip Install
+To
