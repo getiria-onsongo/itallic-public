@@ -9,6 +9,9 @@ and **C**leaning (ITALLIC), automatically detects and corrects errors in locatio
 for location-dependent data, such as region name.    
 
 ### Installation
+Coming soon...
+
+<!--
 ITALLICs is written in pure Python, but has several dependecies such as GeoPandas that can be challenging to install. 
 Therefore, we recommend installing ITALLIC using the "**Easy Install**". For those with experience using pip, we also 
 provide instruction for installing using pip. 
@@ -23,4 +26,5 @@ $ conda install -c conda-forge itallic
 If you do not have conda install, you can install it [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/). 
 
 #### Pip Install
+-->
 
