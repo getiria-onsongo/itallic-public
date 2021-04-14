@@ -14,7 +14,13 @@ Therefore, we recommend installing ITALLIC using the "**Easy Install**". For tho
 provide instruction for installing using pip. 
 
 #### Easy Install
-To
+The best and easiest way to install ITALLIC is using conda and conda-forge channel: 
+
+```bash
+$ conda install -c conda-forge itallic
+```
+
+If you do not have conda install, you can install it [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/). 
 
 #### Pip Install
-To
+
