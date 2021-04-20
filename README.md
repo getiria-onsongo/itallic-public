@@ -13,6 +13,16 @@ ITALLIC is a [Python 3](https://www.python.org/downloads/) application. In addit
 
 Even though you do not need Conda to use ITALLIC, using Conda has some advantages that will make life easier. It will not only make installation for ITALLIC and other Python packages easy, it also enables use of conda environments. Use of environments is a good way to prevent conflicts that might arise when working on different projects that require different versions of the same software package. [This blog](https://python-wrangler.com/how-and-why-you-should-use-conda-environments/) nicely summarizes some advantages of using environments.  
 
+These instruction assume familiarity working on a [terminal](https://itconnect.uw.edu/learn/workshops/online-tutorials/web-publishing/what-is-a-terminal/). 
+
+### Creating a conda environment 
+
+* SSH into your machine. 
+
+```bash
+$ ssh -i myPrivateKey.pem hadoop@xxx.us-west-2.compute.amazonaws.com 
+```
+
 <!--
 ITALLICs is written in pure Python, but has several dependecies such as GeoPandas that can be challenging to install. 
 Therefore, we recommend installing ITALLIC using the "**Easy Install**". For those with experience using pip, we also 
