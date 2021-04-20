@@ -18,7 +18,7 @@ Even though you do not need Conda to use ITALLIC, using Conda has some advantage
 
 ### Prepare working environment 
 
-Create a conda environment for data cleaning and install ITALLIC in that environment. The command below uses "DataCleaning" and specifies use of Python version 3.8 You can give your environment a different name but we recommend sticking with Python 3.8. Any Python 3 version should work but since we tested our software on version 3.8, we recommend using the same Python version. 
+Create a conda environment for data cleaning and install ITALLIC in that environment. The command below uses "DataCleaning" as the environment name and Python 3.8 as the Python version to use. You can use a different name for your conda environment but we recommend sticking with Python 3.8. Any Python 3 version should work but since ITALLIC was tested on Python version 3.8, we recommend using the same Python version. 
 
 * Create conda environment. 
 
@@ -30,6 +30,19 @@ $ conda create --name DataCleaning python=3.8 -y
 
 ```bash
 $ conda activate DataCleaning
+```
+
+* Install Jupter Notebook. 
+ITALLIC has a visualization tool that works well with [Jupyer Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). Use conda to install Jupter. 
+
+```bash
+$ conda install -c conda-forge jupyter -y
+```
+
+* Install dependencies needed to use jupyter. 
+
+```bash
+$ conda install -c conda-forge ipykernel -y
 ```
 
 <!--
