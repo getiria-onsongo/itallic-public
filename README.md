@@ -60,6 +60,12 @@ Now that you have the environment setup, and installed jupyter, you are ready to
 $ conda install -c conda-forge itallic -y
 ```
 
+* You can now deactivate the conda environment and switch to using Jupyter Notebook to get started. 
+
+```bash
+$ conda deactivate
+```
+
 ## Getting Started
 
 <!--
