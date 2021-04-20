@@ -9,7 +9,7 @@ and **C**leaning (ITALLIC), automatically detects and corrects errors in locatio
 for location-dependent data, such as region name.    
 
 ## Pre-Installation
-ITALLIC is a Python 3 application. Click this [https://www.python.org/downloads/](https://www.python.org/downloads/) link if you need to install it. In addition to Python 3, we **highly recommend** also installing [Conda](https://docs.conda.io/en/latest/). Click this [https://docs.conda.io/projects/conda/en/latest/user-guide/install/] (https://docs.conda.io/projects/conda/en/latest/user-guide/install/) for more information on installing [Conda](https://docs.conda.io/en/latest/).
+ITALLIC is a [Python 3](https://www.python.org/downloads/) application. In addition to Python 3, we **highly recommend** also installing [Conda](https://docs.conda.io/en/latest/). Click [this link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) for more information on installing [Conda](https://docs.conda.io/en/latest/).
 
 Even though you do not need Conda to use ITALLIC, using Conda has some advantages that will make life easier. It will not only make installation for ITALLIC and other Python packages easy but it also enables use of conda environments. Use of environments is a good way to prevent conflicts that might arise when working on different projects that require different versions of the same software package. [This blog](https://python-wrangler.com/how-and-why-you-should-use-conda-environments/) nicely summarizes advantages of using environments.  
 
