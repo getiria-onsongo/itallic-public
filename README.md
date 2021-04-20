@@ -8,19 +8,28 @@ cases, missing data. This tool, an **I**ntegrated **T**ool for **A**utomatic **L
 and **C**leaning (ITALLIC), automatically detects and corrects errors in location data and imputes missing values 
 for location-dependent data, such as region name.    
 
+This page contains instructions for installing and uaing ITALLIC. These instructions assume familiarity working on a [terminal](https://itconnect.uw.edu/learn/workshops/online-tutorials/web-publishing/what-is-a-terminal/). 
+
 ## Pre-Installation
 ITALLIC is a [Python 3](https://www.python.org/downloads/) application. In addition to Python 3, we **highly recommend** also installing [Conda](https://docs.conda.io/en/latest/). Click [this link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) for more information on installing [Conda](https://docs.conda.io/en/latest/).
 
 Even though you do not need Conda to use ITALLIC, using Conda has some advantages that will make life easier. It will not only make installation for ITALLIC and other Python packages easy, it also enables use of conda environments. Use of environments is a good way to prevent conflicts that might arise when working on different projects that require different versions of the same software package. [This blog](https://python-wrangler.com/how-and-why-you-should-use-conda-environments/) nicely summarizes some advantages of using environments.  
 
-These instruction assume familiarity working on a [terminal](https://itconnect.uw.edu/learn/workshops/online-tutorials/web-publishing/what-is-a-terminal/). 
 
-### Creating a conda environment 
+### Prepare working environment 
 
-* SSH into your machine. 
+Create a conda environment for data cleaning and install ITALLIC in that environment. The command below uses "DataCleaning" and specifies use of Python version 3.8 You can give your environment a different name but we recommend sticking with Python 3.8. Any Python 3 version should work but since we tested our software on version 3.8, we recommend using the same Python version. 
+
+* Create conda environment. 
 
 ```bash
-$ ssh -i myPrivateKey.pem hadoop@xxx.us-west-2.compute.amazonaws.com 
+$ conda create --name DataCleaning python=3.8 -y
+```
+
+* Activate the environment. 
+
+```bash
+$ conda activate DataCleaning
 ```
 
 <!--
