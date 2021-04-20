@@ -68,6 +68,7 @@ $ conda deactivate
 
 ## Getting Started
 
+#### Instructions coming soon....
 <!--
 * Launch jupyter notebook to get started. 
 
