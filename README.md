@@ -8,7 +8,7 @@ cases, missing data. This tool, an **I**ntegrated **T**ool for **A**utomatic **L
 and **C**leaning (ITALLIC), automatically detects and corrects errors in location data and imputes missing values 
 for location-dependent data, such as region name.    
 
-### Installation
+## Pre-Installation
 Coming soon...
 
 <!--
