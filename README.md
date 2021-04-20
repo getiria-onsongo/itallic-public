@@ -45,6 +45,18 @@ $ conda install -c conda-forge jupyter -y
 $ conda install -c conda-forge ipykernel -y
 ```
 
+* Create kernel for this environment to use with jupyter notebook. We recommend using the same name for the kernel that was used for the environment. 
+
+```bash
+$ ipython kernel install --user --name=DataCleaning
+```
+
+* Install ITALLIC. 
+
+```bash
+$ conda install -c conda-forge itallic -y
+```
+
 <!--
 ITALLICs is written in pure Python, but has several dependecies such as GeoPandas that can be challenging to install. 
 Therefore, we recommend installing ITALLIC using the "**Easy Install**". For those with experience using pip, we also 
