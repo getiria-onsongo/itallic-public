@@ -9,7 +9,7 @@ and **C**leaning (ITALLIC), automatically detects and corrects errors in locatio
 for location-dependent data, such as region name.    
 
 ## Pre-Installation
-Coming soon...
+ITALLIC is a Python 3 application. Click this [https://www.python.org/downloads/](https://www.python.org/downloads/)link if you need to install Python 3. 
 
 <!--
 ITALLICs is written in pure Python, but has several dependecies such as GeoPandas that can be challenging to install. 
