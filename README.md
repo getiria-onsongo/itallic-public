@@ -112,7 +112,7 @@ $ jupyter notebook
 
 * Ensure you are using the kernel we created "DataCleaning" with **itallic** and its dependent software installed. The image below illustrates how to change your notebook kernel. 
 
-![](https://github.com/getiria-onsongo/itallic/blob/main/resources/kernel_update.png | width=100)
+![](https://github.com/getiria-onsongo/itallic/blob/main/resources/kernel_update.png){:height="36px"}
 
 * Follow the notebook to learn basic commands on how to get started. 
 
