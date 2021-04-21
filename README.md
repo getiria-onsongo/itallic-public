@@ -108,7 +108,7 @@ $ jupyter notebook
 
 * Once you launch the notebook, a browser should be launched with contents of your working directory displayed as shown below. Double click on the [Getting Started](https://github.com/getiria-onsongo/itallic/blob/main/resources/GettingStarted.ipynb) notebook.
 
-<img src="https://github.com/getiria-onsongo/itallic/blob/main/resources/JupyterNotebook.png" width="624">
+<img src="https://github.com/getiria-onsongo/itallic/blob/main/resources/JupyterNotebook.png" width="424">
 
 * Ensure you are using the kernel we created "DataCleaning" with **itallic** and its dependent software installed. The image below illustrates how to change your notebook kernel. 
 
