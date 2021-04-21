@@ -60,8 +60,44 @@ Now that you have the environment setup, and installed jupyter, you are ready to
 $ conda install -c conda-forge itallic -y
 ```
 
+* You can now deactivate the conda environment and switch to using Jupyter Notebook to get started. 
+
+```bash
+$ conda deactivate
+```
+
 ## Getting Started
 
+* Create a working directory
+
+```bash
+$ mkdir DataCleaningDir
+```
+
+* Navigate into the directory
+
+```bash
+$ cd DataCleaningDir
+```
+
+* Get compressed folder with country boundary data and a sample dataset to use for testing
+
+```bash
+$ wget https://github.com/getiria-onsongo/itallic/blob/main/resources/data.tar.gz
+```
+
+**NOTE:** If your platform does not have wget, you can install it using conda "conda install -c conda-forge wget"
+
+* Uncompress data folder
+
+```bash
+$ wget https://github.com/getiria-onsongo/itallic/blob/main/resources/data.tar.gz
+```
+
+
+
+
+#### Instructions coming soon....
 <!--
 * Launch jupyter notebook to get started. 
 
