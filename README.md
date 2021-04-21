@@ -83,7 +83,7 @@ $ cd DataCleaningDir
 * Get compressed folder with country boundary data and a sample dataset to use for testing
 
 ```bash
-$ wget https://github.com/getiria-onsongo/itallic/blob/main/resources/data.tar.gz
+$ wget https://github.com/getiria-onsongo/itallic/raw/main/resources/data.tar.gz
 ```
 
 **NOTE:** If your platform does not have wget, you can install it using conda "conda install -c conda-forge wget"
@@ -91,8 +91,11 @@ $ wget https://github.com/getiria-onsongo/itallic/blob/main/resources/data.tar.g
 * Uncompress data folder
 
 ```bash
-$ wget https://github.com/getiria-onsongo/itallic/blob/main/resources/data.tar.gz
+$ tar -xvf data.tar.gz 
 ```
+
+**NOTE:** You can also download the compressed folder by clicking on [this link](https://github.com/getiria-onsongo/itallic/blob/main/resources/data.tar.gz) and then
+clicking the "Download" button. 
 
 
 
