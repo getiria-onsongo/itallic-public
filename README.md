@@ -114,6 +114,8 @@ $ jupyter notebook
 
 ![](https://github.com/getiria-onsongo/itallic/blob/main/resources/kernel_update.png)
 
+* Follow the notebook to learn basic commands on how to get started. 
+
 <!--
 * Launch jupyter notebook to get started. 
 
