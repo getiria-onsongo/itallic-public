@@ -114,7 +114,7 @@ $ jupyter notebook
 
 ![](https://github.com/getiria-onsongo/itallic/blob/main/resources/kernel_update.png)
 
-<img src="https://github.com/getiria-onsongo/itallic/blob/main/resources/kernel_update.png" width="324">
+<img src="https://github.com/getiria-onsongo/itallic/blob/main/resources/kernel_update.png" width="624">
 
 * Follow the notebook to learn basic commands on how to get started. 
 
