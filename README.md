@@ -85,18 +85,20 @@ $ cd DataCleaningDir
 ```bash
 $ wget https://github.com/getiria-onsongo/itallic/raw/main/resources/data.tar.gz
 ```
-
-**NOTE:** If your platform does not have wget, you can install it using conda "conda install -c conda-forge wget"
+If your platform does not have wget, you can install it using conda "conda install -c conda-forge wget"
 
 * Uncompress data folder
 
 ```bash
 $ tar -xvf data.tar.gz 
 ```
+You can also download the compressed folder by clicking on [this link](https://github.com/getiria-onsongo/itallic/blob/main/resources/data.tar.gz) and then clicking the "Download" button. 
 
-**NOTE:** You can also download the compressed folder by clicking on [this link](https://github.com/getiria-onsongo/itallic/blob/main/resources/data.tar.gz) and then
-clicking the "Download" button. 
+* Download a [Getting Started](https://github.com/getiria-onsongo/itallic/blob/main/resources/GettingStarted.ipynb) Python Notebook with basic commands on how to get started. 
 
+```bash
+$ wget https://github.com/getiria-onsongo/itallic/raw/main/resources/GettingStarted.ipynb
+```
 
 
 
