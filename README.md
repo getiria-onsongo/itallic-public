@@ -104,7 +104,7 @@ $ wget https://github.com/getiria-onsongo/itallic/raw/main/resources/GettingStar
 
 #### More instructions coming soon....
 
-[[https://github.com/getiria-onsongo/itallic/blob/main/resources/kernel_update.png|alt=KernelUpdate]]
+[[https://raw.githubusercontent.com/getiria-onsongo/itallic/main/resources/kernel_update.png|alt=KernelUpdate]]
 
 <!--
 * Launch jupyter notebook to get started. 
