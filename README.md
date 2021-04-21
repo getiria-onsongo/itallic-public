@@ -102,7 +102,7 @@ $ wget https://github.com/getiria-onsongo/itallic/raw/main/resources/GettingStar
 
 
 
-#### Instructions coming soon....
+#### More instructions coming soon....
 <!--
 * Launch jupyter notebook to get started. 
 
