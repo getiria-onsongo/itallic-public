@@ -18,7 +18,7 @@ Even though you do not need Conda to use ITALLIC, using Conda has some advantage
 
 ### Prepare working environment 
 
-Create a conda environment for data cleaning and install ITALLIC in that environment. The command below uses "DataCleaning" as the environment name and Python 3.8 as the Python version to use. You can use a different name for your conda environment but we recommend sticking with Python 3.8. Any Python 3 version should work but since ITALLIC was tested on Python version 3.8, we recommend using the same Python version. 
+Create a conda environment for data cleaning and install ITALLIC in that environment. The command below uses "DataCleaning" as the environment name and Python 3.8 as the Python version to use. You can use a different name for your conda environment but we recommend sticking with Python 3.8. Any Python 3 version should work but since ITALLIC was tested on Python version 3.8, we recommend using the same Python 3.8. **NOTE:** One of the many benefits of using Conda is even if you have a different version of Python installed, it will will install version 3.8 for use. Just use the **conda create** command as shown below.    
 
 * Create conda environment. 
 
