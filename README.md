@@ -45,6 +45,7 @@ $ conda install -c conda-forge jupyter -y
 
 ```bash
 $ conda install -c conda-forge ipykernel -y
+$ conda upgrade nbconvert -y
 ```
 
 * Create kernel for this environment to use with jupyter notebook. We recommend using the same name for the kernel that was used for the environment. 
